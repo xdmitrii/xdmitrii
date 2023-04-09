@@ -24,6 +24,7 @@
 
 Интерфейс для сайта Hacker News из двух страниц.
 Технологии: React, Typescript, Material UI, React Router Dom v6.
+
 Использован официальный API Hacker News (https://github.com/HackerNews/API). Вызовы Hacker News API и обработка данных от него производятся напрямую с фронтенда через Axios.
 Рабочая версия - https://dmitriim0.github.io/Hacker-News-React-MUI-App/
 GitHub - https://github.com/DmitriiM0/Hacker-News-React-MUI-App
