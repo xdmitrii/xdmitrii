@@ -5,10 +5,10 @@ I'm Dmitrii, a frontend developer with a passion for startups and entrepreneursh
 ## Tech Stack:
 - TypeScript
 - React
-- Redux/Redux-Toolkit
+- Redux/Redux-Toolkit/Zustand
 - Next.js
+- Material Ui, Styled Components
 - Node.js
-- Zustand
 - ChartJS
 - PostgreSQL 
    
