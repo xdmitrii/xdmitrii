@@ -35,6 +35,7 @@
 Играть бесплатно, без СМС и регистрации - [GitHub Pages](https://dmitriim0.github.io/minesweeper)
 
 
+
 ## Hacker News
 ![Calculator](https://github.com/DmitriiM0/DmitriiM0/blob/main/hackerNews.png)  
 ### Технологии: Typescript, React, Material UI, React Router Dom v6, Context API
@@ -47,6 +48,7 @@
 
 Код - [GitHub](https://github.com/DmitriiM0/Hacker-News-React-MUI-App)  
 Рабочая версия - [GitHub Pages](https://dmitriim0.github.io/Hacker-News-React-MUI-App/)
+
 
 
 ## Калькулятор сложного процента
