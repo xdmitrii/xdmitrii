@@ -24,7 +24,7 @@
 
 ## Сапер
 ![Calculator](https://github.com/DmitriiM0/DmitriiM0/blob/main/minesweeperBig.png)  
-Технологии: TypeScript, React, Material UI, React Router Dom v6, 
+### Технологии: TypeScript, React, Material UI, React Router Dom v6, 
 
 Описание: 
 - 3 уровня сложности 
@@ -37,7 +37,7 @@
 
 ## Hacker News
 ![Calculator](https://github.com/DmitriiM0/DmitriiM0/blob/main/hackerNews.png)  
-#### Технологии: Typescript, React, Material UI, React Router Dom v6, Context API
+### Технологии: Typescript, React, Material UI, React Router Dom v6, Context API
 
 Описание:
 - топ 100 последних новостей
