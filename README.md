@@ -18,6 +18,15 @@ I'm Dmitrii, a frontend developer with a passion for startups and entrepreneursh
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+## Tech Stack:
+- TypeScript
+- React
+- Redux
+- Next.js
+- Node.js
+- Zustand
+- PostgreSQL
+
 
 ## Minesweeper
 ![Calculator](https://github.com/DmitriiM0/DmitriiM0/blob/main/minesweeperBig.png)  
