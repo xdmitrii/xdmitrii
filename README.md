@@ -20,4 +20,20 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+# 💾 Projects:
+
+Интерфейс для сайта Hacker News из двух страниц.
+Технологии: React, Typescript, Material UI, React Router Dom v6.
+Использован официальный API Hacker News (https://github.com/HackerNews/API). Вызовы Hacker News API и обработка данных от него производятся напрямую с фронтенда через Axios.
+Рабочая версия - https://dmitriim0.github.io/Hacker-News-React-MUI-App/
+GitHub - https://github.com/DmitriiM0/Hacker-News-React-MUI-App
+
+Калькулятор для расчета сложного процента с пополнением и разными периодами рефинансирования (для крипты актуально).
+Технологии: React, Typescript, Material UI.
+Рабочая версия - https://dmitriim0.github.io/Compound_Interest_Calculator/
+GitHub - https://github.com/DmitriiM0/Compound_Interest_Calculator
+
+Игра Сапер. 3 уровня сложности, сохранение топ 10 результатов в localStorage.
+- [GitHub](https://github.com/DmitriiM0/minesweeper)
+- [GitHubPages](https://dmitriim0.github.io/minesweeper)
 
