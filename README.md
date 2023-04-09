@@ -2,7 +2,15 @@
 
 I'm Dmitrii, a frontend developer with a passion for startups and entrepreneurship. I want to use my skills to create impactful projects that make a real difference in people's lives. If you're looking for a motivated and talented developer to join your team - hit me up! I'd love to talk more about how I can help.
 
-# 💻 Tech Stack:
+## Tech Stack:
+- TypeScript
+- React
+- Redux/Redux-Toolkit
+- Next.js
+- Node.js
+- Zustand
+- ChartJS
+- PostgreSQL
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
@@ -18,15 +26,6 @@ I'm Dmitrii, a frontend developer with a passion for startups and entrepreneursh
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## Tech Stack:
-- TypeScript
-- React
-- Redux/Redux-Toolkit
-- Next.js
-- Node.js
-- Zustand
-- ChartJS
-- PostgreSQL
 
 
 ## Minesweeper
