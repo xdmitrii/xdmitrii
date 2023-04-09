@@ -33,7 +33,9 @@ GitHub - https://github.com/DmitriiM0/Hacker-News-React-MUI-App
 Рабочая версия - https://dmitriim0.github.io/Compound_Interest_Calculator/
 GitHub - https://github.com/DmitriiM0/Compound_Interest_Calculator
 
-Игра Сапер. 3 уровня сложности, сохранение топ 10 результатов в localStorage.
-- [GitHub](https://github.com/DmitriiM0/minesweeper)
-- [GitHubPages](https://dmitriim0.github.io/minesweeper)
+## 💾 Сапер:
+Технологии: Typescript, React, React-Router-Dom-v6, Material UI.
+Описание: 3 уровня сложности, сохранение топ 10 результатов в localStorage, таблица лидеров и игра расположены на разных роутах.
+[GitHub](https://github.com/DmitriiM0/minesweeper)
+[GitHubPages](https://dmitriim0.github.io/minesweeper)
 
