@@ -52,6 +52,7 @@
 
 Описание:
 - расчет сложного процента с пополнением и разными периодами рефинансирования
+- автоматическое переключение языка в зависимости от настроек пользователя
 
 Код - [GitHub](https://dmitriim0.github.io/Compound_Interest_Calculator/)  
 Рабочая версия - [GitHub Pages](https://dmitriim0.github.io/Compound_Interest_Calculator/)
