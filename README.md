@@ -22,7 +22,7 @@
 
 # 💾 Projects:
 
-## Сапер:
+## Сапер
 Технологии: Typescript, React, React Router Dom v6, Material UI.
 
 Описание: 
@@ -34,7 +34,7 @@
 Играть бесплатно и без СМС - [GitHub Pages](https://dmitriim0.github.io/minesweeper)
 
 
-## Hacker News:
+## Hacker News
 Технологии: Typescript, React, Material UI, React Router Dom v6, Context API
 
 Описание:
@@ -47,7 +47,7 @@
 Рабочая версия - [GitHub Pages](https://dmitriim0.github.io/Hacker-News-React-MUI-App/)
 
 
-## Калькулятор сложного процента:
+## Калькулятор сложного процента
 Технологии: React, Typescript, Material UI
 
 Описание:
