@@ -31,7 +31,7 @@
 - таблица лидеров и игра расположены на разных роутах
 
 Код - [GitHub](https://github.com/DmitriiM0/minesweeper)  
-Играть бесплатно и без СМС - [GitHub Pages](https://dmitriim0.github.io/minesweeper)
+Играть бесплатно, без СМС и регистрации - [GitHub Pages](https://dmitriim0.github.io/minesweeper)
 
 
 ## Hacker News
