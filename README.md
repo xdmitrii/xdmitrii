@@ -48,6 +48,7 @@
 
 
 ## Калькулятор сложного процента
+![Calculator](https://github.com/DmitriiM0/DmitriiM0/blob/main/Calculator.png)  
 Технологии: React, Typescript, Material UI
 
 Описание:
@@ -57,4 +58,4 @@
 Код - [GitHub](https://dmitriim0.github.io/Compound_Interest_Calculator/)  
 Рабочая версия - [GitHub Pages](https://dmitriim0.github.io/Compound_Interest_Calculator/)
 
-![Calculator](https://github.com/DmitriiM0/DmitriiM0/blob/main/Calculator.png)
+
