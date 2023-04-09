@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi there 👋
+As an independent and resourceful Frontend Developer, I am confident in my ability to tackle complex problems and find effective solutions. My passion for learning and staying up-to-date with the latest technologies has been invaluable in my X years of experience. I am excited to bring my skills and expertise to your team and help your company achieve its goals.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/molchanov-dmitrii/) 
