@@ -57,4 +57,4 @@
 Код - [GitHub](https://dmitriim0.github.io/Compound_Interest_Calculator/)  
 Рабочая версия - [GitHub Pages](https://dmitriim0.github.io/Compound_Interest_Calculator/)
 
-![Calculator](calculator.png)
+![Calculator](./calculator.png)
