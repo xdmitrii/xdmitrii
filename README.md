@@ -23,7 +23,7 @@
 # 💾 Projects:
 
 ## Сапер
-![Calculator](https://github.com/DmitriiM0/DmitriiM0/blob/main/minesweeper.png)  
+![Calculator](https://github.com/DmitriiM0/DmitriiM0/blob/main/minesweeperBig.png)  
 Технологии: Typescript, React, React Router Dom v6, Material UI.
 
 Описание: 
