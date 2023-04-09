@@ -21,7 +21,7 @@ Hi there! I'm Dmitrii, a frontend developer with a passion for startups and entr
 
 ## Minesweeper
 ![Calculator](https://github.com/DmitriiM0/DmitriiM0/blob/main/minesweeperBig.png)  
-### Технологии: TypeScript, React, Material UI, React Router Dom v6, 
+### Технологии: TypeScript, React, Material UI, React Router Dom v6 
 
 Описание: 
 - 3 уровня сложности 
