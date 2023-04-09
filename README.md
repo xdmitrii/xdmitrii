@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi there! I'm Dmitrii, a frontend developer with a passion for startups and entrepreneurship. I want to use my skills to create impactful projects that make a real difference in people's lives. If you're looking for a motivated and talented developer to join your team - hit me up! I'd love to talk more about how I can help.
+I'm Dmitrii, a frontend developer with a passion for startups and entrepreneurship. I want to use my skills to create impactful projects that make a real difference in people's lives. If you're looking for a motivated and talented developer to join your team - hit me up! I'd love to talk more about how I can help.
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
