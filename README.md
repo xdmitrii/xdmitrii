@@ -24,10 +24,7 @@
 
 ## Сапер
 ![Calculator](https://github.com/DmitriiM0/DmitriiM0/blob/main/minesweeperBig.png)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
-React Router Dom v6, 
+Технологии: TypeScript, React, Material UI, React Router Dom v6, 
 
 Описание: 
 - 3 уровня сложности 
@@ -40,7 +37,7 @@ React Router Dom v6,
 
 ## Hacker News
 ![Calculator](https://github.com/DmitriiM0/DmitriiM0/blob/main/hackerNews.png)  
-Технологии: Typescript, React, Material UI, React Router Dom v6, Context API
+#### Технологии: Typescript, React, Material UI, React Router Dom v6, Context API
 
 Описание:
 - топ 100 последних новостей
@@ -54,7 +51,7 @@ React Router Dom v6,
 
 ## Калькулятор сложного процента
 ![Calculator](https://github.com/DmitriiM0/DmitriiM0/blob/main/calculator.png)  
-Технологии: React, Typescript, Material UI
+### Технологии: React, Typescript, Material UI
 
 Описание:
 - расчет сложного процента с пополнением и разными периодами рефинансирования
