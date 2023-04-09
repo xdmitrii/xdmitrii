@@ -22,19 +22,8 @@
 
 # 💾 Projects:
 
-Интерфейс для сайта Hacker News из двух страниц.
-Технологии: React, Typescript, Material UI, React Router Dom v6.
-Использован официальный API Hacker News (https://github.com/HackerNews/API). Вызовы Hacker News API и обработка данных от него производятся напрямую с фронтенда через Axios.
-Рабочая версия - https://dmitriim0.github.io/Hacker-News-React-MUI-App/
-GitHub - https://github.com/DmitriiM0/Hacker-News-React-MUI-App
-
-Калькулятор для расчета сложного процента с пополнением и разными периодами рефинансирования (для крипты актуально).
-Технологии: React, Typescript, Material UI.
-Рабочая версия - https://dmitriim0.github.io/Compound_Interest_Calculator/
-GitHub - https://github.com/DmitriiM0/Compound_Interest_Calculator
-
-## 💾 Сапер:
-Технологии: Typescript, React, React-Router-Dom-v6, Material UI.
+## Сапер:
+Технологии: Typescript, React, React Router Dom v6, Material UI.
 
 Описание: 
 - 3 уровня сложности 
@@ -43,4 +32,27 @@ GitHub - https://github.com/DmitriiM0/Compound_Interest_Calculator
 
 Код - [GitHub](https://github.com/DmitriiM0/minesweeper)  
 Играть бесплатно и без СМС - [GitHub Pages](https://dmitriim0.github.io/minesweeper)
+
+
+## Hacker News:
+Технологии: Typescript, React, Material UI, React Router Dom v6, Context API
+
+Описание:
+- топ 100 последних новостей
+- рекурсивное отображение комментариев на странице новости
+- использован официальный API Hacker News (https://github.com/HackerNews/API)
+- вызовы Hacker News API и обработка данных от него производятся напрямую с фронтенда через Axios
+
+Код - [GitHub](https://github.com/DmitriiM0/Hacker-News-React-MUI-App)  
+Рабочая версия - [GitHub Pages](https://dmitriim0.github.io/Hacker-News-React-MUI-App/)
+
+
+## Калькулятор сложного процента:
+Технологии: React, Typescript, Material UI
+
+Описание:
+- расчет сложного процента с пополнением и разными периодами рефинансирования
+
+Код - [GitHub](https://dmitriim0.github.io/Compound_Interest_Calculator/)  
+Рабочая версия - [GitHub Pages](https://dmitriim0.github.io/Compound_Interest_Calculator/)
 
