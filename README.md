@@ -49,7 +49,7 @@
 
 
 ## Калькулятор сложного процента
-![Calculator](https://github.com/DmitriiM0/DmitriiM0/blob/main/Calculator.png)  
+![Calculator](https://github.com/DmitriiM0/DmitriiM0/blob/main/calculator.png)  
 Технологии: React, Typescript, Material UI
 
 Описание:
