@@ -37,5 +37,5 @@ GitHub - https://github.com/DmitriiM0/Compound_Interest_Calculator
 Технологии: Typescript, React, React-Router-Dom-v6, Material UI.
 Описание: 3 уровня сложности, сохранение топ 10 результатов в localStorage, таблица лидеров и игра расположены на разных роутах.
 - [GitHub](https://github.com/DmitriiM0/minesweeper)
-- [GitHubPages](https://dmitriim0.github.io/minesweeper)
+- [GitHub Pages](https://dmitriim0.github.io/minesweeper)
 
