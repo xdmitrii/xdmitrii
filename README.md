@@ -40,7 +40,7 @@ GitHub - https://github.com/DmitriiM0/Compound_Interest_Calculator
 - 3 уровня сложности 
 - сохранение топ 10 результатов в localStorage
 - таблица лидеров и игра расположены на разных роутах
-- 
-- Код - [GitHub](https://github.com/DmitriiM0/minesweeper)
-- Играть бесплатно и без СМС - [GitHub Pages](https://dmitriim0.github.io/minesweeper)
+
+Код - [GitHub](https://github.com/DmitriiM0/minesweeper)
+Играть бесплатно и без СМС - [GitHub Pages](https://dmitriim0.github.io/minesweeper)
 
