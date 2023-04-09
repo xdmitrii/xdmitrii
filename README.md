@@ -25,6 +25,7 @@ I'm Dmitrii, a frontend developer with a passion for startups and entrepreneursh
 - Next.js
 - Node.js
 - Zustand
+- ChartJS
 - PostgreSQL
 
 
