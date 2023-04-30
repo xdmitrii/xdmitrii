@@ -39,8 +39,8 @@ I'm Dmitrii, a frontend developer with a passion for startups and entrepreneursh
 - сохранение топ 10 результатов в localStorage
 - таблица лидеров и игра расположены на разных роутах
 
-Код - [GitHub](https://github.com/DmitriiM0/minesweeper)  
-Играть бесплатно, без СМС и регистрации - [GitHub Pages](https://dmitriim0.github.io/minesweeper)
+Код - [GitHub](https://github.com/xdmitrii/minesweeper)  
+Играть бесплатно, без СМС и регистрации - [GitHub Pages](https://xdmitrii.github.io/minesweeper)
 
 
   
@@ -54,8 +54,8 @@ I'm Dmitrii, a frontend developer with a passion for startups and entrepreneursh
 - использован официальный API Hacker News (https://github.com/HackerNews/API)
 - вызовы Hacker News API и обработка данных от него производятся напрямую с фронтенда через Axios
 
-Код - [GitHub](https://github.com/DmitriiM0/Hacker-News-React-MUI-App)  
-Рабочая версия - [GitHub Pages](https://dmitriim0.github.io/Hacker-News-React-MUI-App/)
+Код - [GitHub](https://github.com/xdmitrii/Hacker-News-React-MUI-App)  
+Рабочая версия - [GitHub Pages](https://xdmitrii.github.io/Hacker-News-React-MUI-App/)
   
 
 ## Калькулятор сложного процента
@@ -66,7 +66,7 @@ I'm Dmitrii, a frontend developer with a passion for startups and entrepreneursh
 - расчет сложного процента с пополнением и разными периодами рефинансирования
 - автоматическое переключение языка в зависимости от настроек пользователя
 
-Код - [GitHub](https://dmitriim0.github.io/Compound_Interest_Calculator/)  
-Рабочая версия - [GitHub Pages](https://dmitriim0.github.io/Compound_Interest_Calculator/)
+Код - [GitHub](https://xdmitrii.github.io/Compound_Interest_Calculator/)  
+Рабочая версия - [GitHub Pages](https://xdmitrii.github.io/Compound_Interest_Calculator/)
 
 
